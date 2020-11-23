@@ -1,2 +1,2 @@
 # Wian van Rooyen
-### Computer Science Student.
+### Computer Science Student
